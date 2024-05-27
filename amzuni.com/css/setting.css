@@ -1,0 +1,12 @@
+:root {
+    --container: 132rem;
+}
+
+body {
+    margin: 0px;
+}
+
+.container {
+    max-width: var(--container);
+    margin: 0 auto;
+}
